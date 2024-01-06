@@ -1,0 +1,10 @@
+Livros em PHP
+
+1. "PHP and MySQL Web Development" de Luke Welling e Laura Thomson: 
+Este é um livro popular que abrange desde conceitos básicos até tópicos avançados em PHP e MySQL para desenvolvimento web.
+
+2. "Modern PHP: New Features and Good Practices" de Josh Lockhart: 
+Esse livro é ótimo para aprender práticas modernas de programação em PHP, abordando novos recursos e boas práticas de desenvolvimento.
+
+3. "Learning PHP, MySQL & JavaScript" de Robin Nixon: 
+Uma ótima opção para quem quer aprender PHP, MySQL e também introduzir o JavaScript para desenvolvimento web.

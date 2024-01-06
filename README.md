@@ -8,9 +8,9 @@
 
 2. Buscar texto em todos arquivos .txt
 
-  sh buscar.sh dicionário
+  sh buscar.sh PHP
 
-# irá listar todos os resultados da busca por arquivos .txt contendo a palavra dicionário
+# irá listar todos os resultados da busca por arquivos .txt contendo a palavra PHP
 
 3. Listar arquivos ordenados por data de modificação
 

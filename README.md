@@ -23,8 +23,8 @@
 
   sh moverarquivos.sh
 
-5. Apagar pasta que contenham arquivos
+5. Apagar pasta que contenham arquivos e subpastas
 
-  rm -t dados-txt
+  rm -r dados-txt
 
 
